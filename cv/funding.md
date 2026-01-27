@@ -1,0 +1,28 @@
+- 2025- **2027**: “Industrial AI Innovation Hub for SMEs (TEHO-AI),” Regional ERDF Council
+(Päijät-Häme),€210 466, principal investigator.
+- 2025- **2026**: “Continuum Robotic Cable Exostructure for Autonomous Heavy-Duty EV
+Charging,” Electric Mobility Research Center,€40 000, project manager, principal
+investigator.
+- 2024- **2028**: “Sustainable Mechatronics Professorship,” Donation by the City of Lahti and
+regional companies,€1 155 000, project manager, principal investigator.
+- 2024- **2026**: “VIIMA – Virtual Material Engineering & Fatigue Design,” Business Finland
+project,€1 886 778, project manager (university), PI Aki Mikkola.
+- 2022- **2024**: “SANTTU – To reduce stress from machine & operator,” Business Finland project,
+€1 006 000, project manager (department), investigator, PI Aki Mikkola.
+- 2021- **2024**: “AITOC – Artificial Intelligence supported Tool Chain in Manufacturing
+Engineering,” ITEA 3 project no. 19027,€1 080 376, investigator, PI Aki Mikkola.
+- 2019- **2021**: “Real-time simulator-driver design and manufacturing based on ﬂexible systems,”
+Research project 845600 – RealFlex, granted by European Commission under Marie
+Skłodowska-Curie Individual Fellowships,€202 681, principal investigator.
+- 2017- **2018**: “Virtual Coach Based on Multibody Dynamics,” Decision No. 305737, granted by
+Academy of Finland,€537 809, project manager, no role in the preparation, PI Perttu
+Hämäläinen.
+- 2013- **2017**: “Flexible, Overconstrained Multibody Systems Modeling using Sequential and
+Parallel Methods,” Research project no. 2012/07/B/ST8/03993 granted by the Polish National
+Science Centre, 803 480 PLN (approx.€190 000), contractor, co-author, PI Janusz Frączek.
+- 2015: “Modeling of Composite Structures using Flexible Multibody Absolute Nodal
+Coordinate Formulation,” Research project granted by the Dean of The Faculty of Power and
+Aeronautical Engineering, 20 000 PLN (approx.€4 500), principal investigator.
+- 2011- **2013**: “Modeling of Flexible Multibody Systems in Absolute Nodal Coordinate
+Formulation,” Doctoral research project no. N N514 673340 granted by the Polish National
+Science Centre, 80 000 PLN (approx.€19 000), main author, contractor, PI Janusz Frączek.

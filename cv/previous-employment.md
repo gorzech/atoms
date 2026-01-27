@@ -1,0 +1,13 @@
+- 2021- **2024**: Post-doctoral Researcher, Department of Mechanical Engineering,
+Lappeenranta-Lahti University of Technology LUT, Lappeenranta, Finland
+- 2019- **2021**: Senior Developer, Mevea Oy, Lappeenranta, Finland
+- 2017- **2019**: Post-doctoral Researcher, Department of Mechanical Engineering,
+Lappeenranta-Lahti University of Technology LUT, Lappeenranta, Finland
+- 2012- **2017**: Assistant Professor, Faculty of Power and Aeronautical Engineering, Warsaw
+University of Technology, Poland
+- 2016:Visiting Researcher, Department of Mechanical Engineering, Lappeenranta University
+of Technology, Finland (7 months)
+- 2014:Visiting Scholar, Department of Mechanical Engineering, University of Illinois at
+Chicago, Chicago, Illinois, USA (6 months)
+- 2007- **2012**: Researcher, Faculty of Power and Aeronautical Engineering, Warsaw University of
+Technology, Poland

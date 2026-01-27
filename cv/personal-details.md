@@ -1,0 +1,4 @@
+- Orzechowski
+- Grzegorz
+- ORCID: 0000-0002-3252-1236
+- 26.01.2026
