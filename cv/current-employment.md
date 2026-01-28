@@ -1,3 +1,1 @@
-- 2024- **2028**: Associate Professor (Tenure Track) in Sustainable Mechatronics, Stage III,
-Department of Mechanical Engineering, Lappeenranta-Lahti University of Technology LUT,
-Lahti, Finland
+- **2024-2028**: Associate Professor (Tenure Track) in Sustainable Mechatronics, Stage III, Department of Mechanical Engineering, Lappeenranta-Lahti University of Technology LUT, Lahti, Finland

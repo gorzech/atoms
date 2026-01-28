@@ -1,9 +1,10 @@
-- 2025-present: Post-graduate course on “Advanced Industrial Mechatronics,” LUT University
-- 2024-present: Head of Master’s Programme in Mechatronics, LUT University, Lahti
-- 2024: Training on “University Pedagogy, Basic Module, 10 ECTS,” LUT University Pedagogy
-- 2017-**2024**: Post-graduate and doctoral course on “Computer methods in mechanics,” LUT
-University
-- 2022- **2024**: Lecture on Artificial Intelligence in Mechanical Engineeringduring the course
-“Simulation of a Mechatronic Machines,” LUT University.
-- 2018:Training on “Supervision of doctoral thesis and dissertation,” LUT University Pedagogy
-- 2008- **2017**: Lecturer and tutor on various faculty courses at Warsaw University of Technology (including automation, robotics, statistics, artiﬁcial intelligence, and mechanics)
+- **2026**: "Workshop on machine learning in multibody systems," during the international IMSD Multibody conference, Seville, Spain
+- **2026-present**: Post-graduate practical course on “Project Course in Mechatronics,” LUT University
+- **2025**: "Workshop on machine learning in multibody systems," during the international ECCOMAS Multibody conference, Austria, Innsbruck
+- **2025-present**: Post-graduate course on “Advanced Industrial Mechatronics,” LUT University
+- **2024-present**: Head of Master’s Programme in Mechatronics, LUT University, Lahti
+- **2024**: Training on “University Pedagogy, Basic Module, 10 ECTS,” LUT University Pedagogy
+- **2017-2024**: Post-graduate and doctoral course on “Computer methods in mechanics,” LUT University
+- **2022-2026**: Workshops on Artificial Intelligence in Mechanical Engineering during the course “Simulation of a Mechatronic Machines,” LUT University.
+- **2018**: Training on “Supervision of doctoral thesis and dissertation,” LUT University Pedagogy
+- **2008-2017**: Lecturer and tutor on various faculty courses at Warsaw University of Technology (including automation, robotics, statistics, artiﬁcial intelligence, and mechanics)
