@@ -1,3 +1,4 @@
+- **2026**: Member of Doctoral Dissertation Defense Committee, thesis of **Mahmoud Elbakly**, supervision of **Prof. Ahmed Shabana**, 9 March, University of Illinois at Chicago, Chicago, IL, USA
 - **2025**: Invited Seminar for Doctoral Students: **AI in Mechanical Engineering**, October, University of Seville, Seville, Spain
 - **2025**: Member of Doctoral Dissertation Defense Committee, thesis of **Narges Mohammadi**, supervision of **Prof. José Escalona**, 22 July, University of Seville, Seville, Spain
 - **2025**: Visiting Professor, Intensive Course: "Multibody Dynamics & Machine Learning in Julia," Warsaw University of Technology, Warsaw, Poland
