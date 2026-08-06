@@ -11,6 +11,7 @@ I work on multibody simulations, digital twins, and robotics with focus on sim-t
 
 Current interests:
 
+- Virtual sensors
 - Autonomous machinery
 - ML for mechanical systems
 - Digital twins

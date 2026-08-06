@@ -1,6 +1,7 @@
 - **2025-2027**: “Industrial AI Innovation Hub for SMEs (TEHO-AI),” Regional ERDF Council (Päijät-Häme),€210 466, principal investigator.
 - **2025-2026**: “Continuum Robotic Cable Exostructure for Autonomous Heavy-Duty EV Charging,” Electric Mobility Research Center, €40 000, project manager, principal investigator.
 - **2024-2028**: “Sustainable Mechatronics Professorship,” Donation by the City of Lahti and regional companies, €1 155 000, project manager, principal investigator.
+- **2024-2028**: “Intelligent Autonomous Artificial Fish,” LUT Doctoral School, €135 000, project manager.
 - **2024-2026**: “VIIMA – Virtual Material Engineering & Fatigue Design,” Business Finland project, €1 886 778, project manager (university), PI Aki Mikkola.
 - **2022-2024**: “SANTTU – To reduce stress from machine & operator,” Business Finland project, €1 006 000, project manager (department), investigator, PI Aki Mikkola.
 - **2021-2024**: “AITOC – Artificial Intelligence supported Tool Chain in Manufacturing Engineering,” ITEA 3 project no. 19027, €1 080 376, investigator, PI Aki Mikkola.
