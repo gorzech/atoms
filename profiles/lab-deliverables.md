@@ -1,0 +1,3 @@
+- Digital twins
+- Virtual sensors
+- Better designs and controllers

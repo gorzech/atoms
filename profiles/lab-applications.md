@@ -1,0 +1,3 @@
+- Non-road mobile machinery: forestry, mining, lifting and heavy industry
+- Hydraulically driven systems
+- Robotics and automation solutions

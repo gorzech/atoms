@@ -1,12 +1,9 @@
 ### Sustainable Mechatronics
 
-Located at LUT Lahti. The only mechanical engineering outpost of LUT. Custom designs, industrial applications, virtual engineering, and value offer via operational digital twins. 
+Physics-informed robotics and AI for tough environments.
 
-We develop simulation and digital twin methods for autonomous and human-aware machinery, including:
+We are a research group at LUT University in Lahti, Finland. We build physics-based models and real-time simulations of machines, and use them for AI and robotics. The machines our partners build are expensive to prototype and hard to control without good models. Our methods help to make design, autonomy and lifecycle decisions earlier and with more confidence.
 
-- multibody and hydraulic system modeling
-- sim-to-real workflows
-- data-driven surrogate models
-- human/environment modeling for safety
+We work on non-road mobile machinery (forestry, mining, lifting, heavy industry), hydraulically driven systems, and robotics and automation solutions.
 
-Selected domains: logistics, healthcare, forestry, construction, non-road mobile machinery.
+We are open to visits, talks, invitations and collaboration with companies.
