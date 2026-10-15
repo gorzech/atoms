@@ -1,6 +1,6 @@
 - **2024-present**: Head of the Sustainable Mechatronics Laboratory within the Department of Mechanical Engineering, LUT University, Lahti
 	- Establishing the ﬁrst Mechanical Engineering research unit at LUT Lahti.
-- **2023-2027**: Leadership in the VIIMA project:
+- **2024-2027**: Leadership in the VIIMA project:
 	- Project leader at LUT. Managed and coordinated the work of ﬁve research groups at two universities (LUT, Oulu).
 	- Instructing three post-doctoral researchers and two doctoral students.
 - **2023-2026**: Research advisor on “Autonomous Heavy Machinery Innovation Environment” Project, Savonia University of Applied Sciences.
