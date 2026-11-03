@@ -1,4 +1,2 @@
-- Orzechowski
-- Grzegorz
-- ORCID: [0000-0002-3252-1236](https://orcid.org/0000-0002-3252-1236)
-- 6.8.2026
+Orzechowski, Grzegorz. ORCID: [0000-0002-3252-1236](https://orcid.org/0000-0002-3252-1236)\
+Date of CV: 3.11.2026

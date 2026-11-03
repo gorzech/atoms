@@ -1,1 +1,4 @@
-Not applicable.
+- **Open science**: Open-source research software (see Research output). The VIIMA project, which I lead at LUT, published an open dataset from a hydraulically actuated forestry crane (*Data in Brief*, 2026).
+- **Use of research in industry**: Joint research with companies, including Kempower and Mevea. Helping SMEs in Päijät-Häme adopt AI through the TEHO-AI hub (ERDF, 2025-2027).
+- **Science communication**: “Beyond Mechanics” stand at LUT Blossom 2026, Lahti.
+- **Regional impact**: First mechanical engineering research unit at LUT Lahti, funded by the City of Lahti and regional companies.
