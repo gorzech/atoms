@@ -1,4 +1,4 @@
-### Sustainable Mechatronics
+### SuMec Lab (Sustainable Mechatronics)
 
 Physics-informed robotics and AI for tough environments.
 
